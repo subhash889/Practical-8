@@ -114,3 +114,5 @@ Number of edges: 3
 2 4
 
 Starting vertex: 1
+BFS Traversal: A B C D
+DFS Traversal: A B D C
